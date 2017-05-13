@@ -1,0 +1,45 @@
+Non-Commercial License Agreement for OSWinsock component (OSWINSCK.DLL)
+
+IMPORTANT - READ CAREFULLY
+This License Agreement is a legal agreement between you and OstroSoft 
+Corporation for OstroSoft POP3 component ("SOFTWARE PRODUCT"), which 
+includes compiled component, sample files and on-line documentation. 
+By installing, copying, or otherwise using the SOFTWARE PRODUCT, you 
+agree to be bound by the terms of this License Agreement. If you do not 
+agree to the terms of this License Agreement, do not install, copy, or 
+use the SOFTWARE PRODUCT.
+
+SOFTWARE PRODUCT LICENSE
+The SOFTWARE PRODUCT is protected by copyright laws and international 
+copyright treaties, as well as other intellectual property laws and 
+treaties. The SOFTWARE PRODUCT is licensed, not sold. 
+
+SOFTWARE PRODUCT is licensed under the following conditions:
+* all the rights to SOFTWARE PRODUCT belong to OstroSoft
+* SOFTWARE PRODUCT can not be sold or leased or otherwise transferred 
+for profit to 3rd party
+* SOFTWARE PRODUCT is provided by OstroSoft AS IS with no guaranteed 
+technical support
+* SOFTWARE PRODUCT or any applications based on SOFTWARE PRODUCT can 
+not be used for unlawful activities
+* SOFTWARE PRODUCT can be used only in non-commercial applications, 
+using SOFTWARE PRODUCT and applications, based on it, for profit 
+terminates this Agreement (see Termination section below)
+
+LIMITATION OF LIABILITY
+You must assume the entire risk of using SOFTWARE PRODUCT. In no event shall 
+OstroSoft be liable to you for any damages, including any lost profits, lost 
+savings, or other incidental, indirect or consequential damages of any kind 
+arising out of the use of SOFTWARE PRODUCT, even if OstroSoft has been advised 
+of the possibility of such damages. In no event will OstroSoft liability for 
+any claim, whether in contract, tort, or any other theory of liability. This 
+limitation shall apply to claims of personal injury to the extent permitted 
+by law.
+
+TERMINATION
+This Agreement shall terminate automatically if you fail to comply with the 
+limitations described in this Agreement. No notice shall be required from 
+OstroSoft to effect such termination. You may also terminate this License 
+Agreement at any time by notifying OstroSoft in writing of termination. 
+Upon termination of this License Agreement, you must uninstall all copies of 
+SOFTWARE PRODUCT. 
