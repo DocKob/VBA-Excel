@@ -4,7 +4,7 @@ Tous mes projets sur : https://crea-scratch.fr
 
 Ici sont regroupés tous mes développements VBA sur Excel.
 
-Version utilisée: Excel 2016/Windows 10.
+Version utilisée: Excel 2016/Windows 7 (32 bits).
 
 # Sommaire
 

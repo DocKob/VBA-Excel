@@ -24,7 +24,7 @@ GetHostName("ip")
 
 ### Console socket :
 
-![Net Console](https://crea-scratch.fr/wp-content/uploads/2016/11/console.jpg)
+![Net Console](https://hitea.fr//wp-content/uploads/2016/11/console.jpg)
 
 - Entrez une Ip et un Port pour la connexion puis appuyez sur "GO".
 - Vous pouvez alors envoyer des commandes et visualiser la réponse de l'hôte dans la console.
