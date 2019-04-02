@@ -1,11 +1,15 @@
 # Présentation
 
-Tous mes projets sur : https://crea-scratch.fr
+Site Officiel : https://hitea.fr
 
-Ici sont regroupés tous mes développements VBA sur Excel.
+Développements VBA sur Office.
 
-Version utilisée: Excel 2016/Windows 7 (32 bits).
+Version utilisée: Office 2016/2019/365 et Windows 7/10.
 
-# Sommaire
+# Excel
 
 - Net Tools : Utilisation des connexions sockets mais aussi de commandes réseau comme NSLOOKUP et PING en VBA.
+
+# Outlook
+
+- Transférer un email à Zoho-Desk, l'app de gestion du helpdesk de la suite Zoho.

@@ -1,8 +1,8 @@
-### https://crea-scratch.fr/projects
+### https://hitea.fr
 
 # Installation de la librairie Winsock
 
-Attention: la librairie utilisée n'est pour l'instant, compatible qu'avec Windows 7 32 bits !
+Attention: Librairie compatible qu'avec Windows 7 32 bits !
 
 Commencez par copier le fichier "OSWINSCK.dll" dans le dossier C:\Windows\System32\
 
